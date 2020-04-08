@@ -1,0 +1,122 @@
+[
+   {
+      "timestamp": "07:04:2020;12:47:31.301844",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:47:35.706205",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:47:37.709409",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:47:39.749707",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:47:41.707376",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:47:43.708945",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:47:45.674647",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:47:47.736420",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:47:49.987330",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:47:52.134590",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:47:54.209155",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:47:56.261249",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:47:58.360149",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:48:00.447026",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:48:02.522966",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:48:04.611415",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:48:06.621205",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:48:08.679046",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:48:10.878515",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:48:13.032849",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:48:15.090181",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "07:04:2020;12:48:17.253083",
+      "match": "False",
+      "matchpercentage": 0
+   },
+   {
+      "timestamp": "08:04:2020;09:44:13.764920",
+      "match": "True",
+      "matchpercentage": 9.401281313462698
+   },
+   {
+      "timestamp": "08:04:2020;09:47:17.643836",
+      "match": "True",
+      "matchpercentage": 9.401281313462698
+   }
+]
